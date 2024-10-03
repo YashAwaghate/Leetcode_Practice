@@ -1,2 +1,2 @@
 # Leetcode_Practice
-A dump of all soolutions that I practice on Leetcode.
+A dump of all solutions that I practice on Leetcode.
